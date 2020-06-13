@@ -5,7 +5,7 @@
  <img src="https://img.shields.io/github/license/eslavondigital/mobile-detector" alt="License">
  </p> 
    a simple detector that the user uses a mobile browser
- 
+   
  ## Installation
  
  Install the latest version with
